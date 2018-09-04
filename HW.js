@@ -33,6 +33,7 @@ const verdict = declareMurderer();
 console.log(verdict);
 
 // The murderer is Mrs. Peacock
+// CORRECTION: ERROR
 
 // Episode 3
 
@@ -115,6 +116,7 @@ const verdict = declareMurderer();
 console.log(verdict);
 
 // The murderer is Mr. Green.
+// CORRECTION: The murderer is Mrs. White
 
 // Episode 7
 
