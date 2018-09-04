@@ -218,6 +218,7 @@ const declareMurderer = function() {
   }
 }
 
+whaddatwist();
 const verdict = declareMurderer();
 console.log(verdict);
 
